@@ -1,0 +1,7 @@
+2023-03-01 23:50:54,965 INFO c.e.r.j.b.t.t.d.PropertiesLoader [main] jdbc:postgresql://0.0.0.0:5433/postgres?user=postgres&password=docker
+2023-03-01 23:53:16,682 INFO c.e.r.j.b.t.t.d.PropertiesLoader [main] jdbc:postgresql://0.0.0.0:5433/postgres?user=postgres&
+2023-03-01 23:53:16,892 ERROR c.e.r.j.b.t.t.d.DBException [main] ERROR: relation "users" does not exist
+  Position: 23null
+2023-03-01 23:53:16,897 ERROR c.e.r.j.b.t.t.d.DBException [main] org.postgresql.util.PSQLException: ERROR: relation "users" does not exist
+  Position: 23org.postgresql.util.PSQLException: ERROR: relation "users" does not exist
+  Position: 23
